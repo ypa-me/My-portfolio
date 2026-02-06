@@ -1,12 +1,12 @@
 @font-face {
     font-family: "Adwaita Sans";
-    src: url("./assets/AdwaitaSans-Regular.ttf") format("truetype");
+    src: url("assets/AdwaitaSans-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "Adwaita Mono";
-    src: url("./assets/AdwaitaMono-Regular.ttf") format("truetype");
+    src: url("assets/AdwaitaMono-Regular.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -15,7 +15,7 @@ body{
     
     margin:0;
     padding:0;
-    background-image: url("./background/texture2.jpg");
+    background-image: url("background/texture2.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: repeat;
