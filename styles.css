@@ -34,6 +34,19 @@ body{
     flex-wrap: wrap;
     
 }
+#main-overview{
+    font-family:"Adwaita Mono", "Adwaita Sans", sans-serif;
+    color: lightgrey;
+    text-align: center;
+    margin: 20px auto; 
+    font-size: 95%;
+    max-width: 1000px; 
+    border: 1px solid rgba(200,200,200,0.08);
+    border-radius: 8px;
+    background-color: rgba(0,0,0,0.6);
+}
+
+
 .headers{
     font-family: "Adwaita Mono", "Adwaita Sans", sans-serif;
     color: lightgrey;
